@@ -21,7 +21,7 @@ A 3-part Instagram/TikTok Reels series (15–30 seconds each) created for a fict
 ### Reels Breakdown
 
 **Reel 1 — Coat**
-📹 [Watch video](assets/reel-1-kaban.mp4)
+📹 [Watch video](reel-1-kaban.mp4)
 > Animate this image into a cinematic fashion video. Woman stands then takes a few slow, natural steps forward on the cobblestone street, beige wool coat swaying gently with the movement, hair moving softly in a light breeze. Camera slowly pushes in toward her. Warm golden hour lighting, shallow depth of field maintained, blurred stone buildings in background stay soft. Natural editorial fashion film mood, smooth and elegant motion. Duration: 6 seconds.
 
 **Caption:**
@@ -37,7 +37,7 @@ A 3-part Instagram/TikTok Reels series (15–30 seconds each) created for a fict
 > #maisonaubin #streetstyle #leatherboots #wintercoat #fashiontrends
 
 **Reel 3 — Bag**
-📹 [Watch video](assets/reel-3-canta.mp4)
+📹 [Watch video](reel-3-canta.mp4)
 > Animate this image into a cinematic fashion video. Camera focuses on the tan leather crossbody bag hanging on her shoulder. Woman's hand slowly adjusts the bag strap, slight natural body movement, hair moving softly in a light breeze. Camera slowly pushes in toward the bag and hand detail. Warm golden hour lighting, shallow depth of field, blurred stone buildings in background stay soft. Natural editorial fashion film mood, smooth elegant motion. Duration: 6 seconds.
 
 **Caption:**
@@ -68,7 +68,7 @@ Kurgusal bir moda markası **Maison Aubin** için hazırlanmış, 3 parçalı bi
 ### Reels Detayları
 
 **Reels 1 — Kaban**
-📹 [Videoyu izle](assets/reel-1-kaban.mp4)
+📹 [Videoyu izle](reel-1-kaban.mp4)
 > Animate this image into a cinematic fashion video. Woman stands then takes a few slow, natural steps forward on the cobblestone street, beige wool coat swaying gently with the movement, hair moving softly in a light breeze. Camera slowly pushes in toward her. Warm golden hour lighting, shallow depth of field maintained, blurred stone buildings in background stay soft. Natural editorial fashion film mood, smooth and elegant motion. Duration: 6 seconds.
 
 **Caption:**
@@ -84,7 +84,7 @@ Kurgusal bir moda markası **Maison Aubin** için hazırlanmış, 3 parçalı bi
 > #maisonaubin #streetstyle #deribot #kışmodası #modatrendleri
 
 **Reels 3 — Çanta**
-📹 [Videoyu izle](assets/reel-3-canta.mp4)
+📹 [Videoyu izle](reel-3-canta.mp4)
 > Animate this image into a cinematic fashion video. Camera focuses on the tan leather crossbody bag hanging on her shoulder. Woman's hand slowly adjusts the bag strap, slight natural body movement, hair moving softly in a light breeze. Camera slowly pushes in toward the bag and hand detail. Warm golden hour lighting, shallow depth of field, blurred stone buildings in background stay soft. Natural editorial fashion film mood, smooth elegant motion. Duration: 6 seconds.
 
 **Caption:**
