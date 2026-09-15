@@ -18,6 +18,8 @@ A 3-part Instagram/TikTok Reels series (15–30 seconds each) created for a fict
 4. Generated matching background music with Suno
 5. Wrote platform-ready captions for each product
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_g8484xg8484xg848" src="https://github.com/user-attachments/assets/cfd2bc7c-a8dd-4697-b535-6f98e651fb62" />
+
 ### Reels Breakdown
 
 **Reel 1 — Coat**
@@ -64,6 +66,7 @@ Kurgusal bir moda markası **Maison Aubin** için hazırlanmış, 3 parçalı bi
 3. CapCut'ta klipler kurgulandı — metin overlay, geçişler, 9:16 dikey format eklendi
 4. Suno ile uyumlu arka plan müziği üretildi
 5. Her ürün için platforma uygun captionlar yazıldı
+<img width="2816" height="1536" alt="Gemini_Generated_Image_g8484xg8484xg848" src="https://github.com/user-attachments/assets/a9f62533-b9f6-498d-b476-46439e2a6c1b" />
 
 ### Reels Detayları
 
