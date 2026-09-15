@@ -30,7 +30,7 @@ A 3-part Instagram/TikTok Reels series (15–30 seconds each) created for a fict
 > #maisonaubin #streetstyle #wintercoat #fashiontrends #outfitinspo
 
 **Reel 2 — Boots**
-📹 [Watch video](assets/reel-2-bot.mp4)
+📹 [Watch video](reel-2-bot.mp4)
 **Caption:**
 > Every step has character. 🤎
 > Meet the Maison Aubin leather boots.
@@ -77,7 +77,7 @@ Kurgusal bir moda markası **Maison Aubin** için hazırlanmış, 3 parçalı bi
 > #maisonaubin #kışmodası #streetstyle #kaban #modatrendleri
 
 **Reels 2 — Bot**
-📹 [Videoyu izle](assets/reel-2-bot.mp4)
+📹 [Videoyu izle](reel-2-bot.mp4)
 **Caption:**
 > Her adımda karakter. 🤎
 > Maison Aubin deri botlarıyla tanışın.
